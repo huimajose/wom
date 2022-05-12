@@ -10,7 +10,7 @@ Crie uma nova pasta em seu servidor, em seguida, clone o projeto com o código a
 Usamos o **.** no final do comando para ser clonado na pasta atual.
 
 ```c
-git clone https://github.com/satellasoft/mini-framework-mvc-php .
+git clone https://github.com/huimajose/wom .
 ```
 
 Após colar o projeto, será necessário instalar as dependências do Composer, execute o comando abaixo no terminal.
